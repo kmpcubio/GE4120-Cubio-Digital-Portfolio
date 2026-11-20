@@ -27,10 +27,10 @@ Hi! I'm **Kaye Marie P. Cubio**, a **4th Year** student taking **Human Resource 
 
 | Activity | Folder Link | Description |
 | :--- | :--- | :--- |
-| **Activity 1** | [Presentation Design Principles](./Activity-1) | Designed a promotional coffee poster using Canva. |
-| **Activity 2** | [Personal Branding](./Activity-2) | Created materials showcasing my personal and professional identity. |
-| **Activity 3** | [Infographic and Project Documentation](./Activity-3) | Created an infographic and documented the project. |
-| **Activity 4** | [Google Slides Presentation](./Activity-4) | Developed a presentation using Google Slides. |
-| **Activity 5** | [AI Tools Activity](./Activity-5) | Explored and applied different AI tools. |
-| **Activity 6** | [Making a Website](./Activity-6) | Built a website using a website builder. |
-| **Activity 7** | [Resume Generating](./Activity-7) | Used AI tools to generate a professional resume. |
+| **Activity 1** | [Presentation Design Principles](https://github.com/kmpcubio/GE4120-Cubio-Digital-Portfolio/tree/main/Activity-1) | Designed a promotional coffee poster using Canva. |
+| **Activity 2** | [Personal Branding](https://github.com/kmpcubio/GE4120-Cubio-Digital-Portfolio/tree/main/Activity-2) | Created materials showcasing my personal and professional identity. |
+| **Activity 3** | [Infographic and Project Documentation](https://github.com/kmpcubio/GE4120-Cubio-Digital-Portfolio/tree/main/Activity-3) | Created an infographic and documented the project. |
+| **Activity 4** | [Google Slides Presentation](https://github.com/kmpcubio/GE4120-Cubio-Digital-Portfolio/tree/main/Activity-4) | Developed a presentation using Google Slides. |
+| **Activity 5** | [AI Tools Activity](https://github.com/kmpcubio/GE4120-Cubio-Digital-Portfolio/tree/main/Activity-5) | Explored and applied different AI tools. |
+| **Activity 6** | [Making a Website](https://github.com/kmpcubio/GE4120-Cubio-Digital-Portfolio/tree/main/Activity-6) | Built a website using a website builder. |
+| **Activity 7** | [Resume Generating](https://github.com/kmpcubio/GE4120-Cubio-Digital-Portfolio/tree/main/Activity-7) | Used AI tools to generate a professional resume. |
