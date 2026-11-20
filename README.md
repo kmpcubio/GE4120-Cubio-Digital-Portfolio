@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github.com/kmpcubio.png" width="140" style="border-radius: 50%;" alt="Profile Photo" />
+  <img src="./Profile.jfif" width="140" style="border-radius: 50%;" alt="Profile Photo" />
   <h1>Kaye Marie P. Cubio</h1>
   <p><b>HRDM 4th Year</b> • Ateneo de Davao University</p>
 </div>
